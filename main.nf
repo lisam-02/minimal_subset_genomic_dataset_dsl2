@@ -1,5 +1,5 @@
 #!/usr/bin/env nextflow
-
+nextflow.enable.dsl=2
 // define workflow
 workflow {
     // Define Channels from input
